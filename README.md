@@ -6,10 +6,10 @@
 
 # Ventile Client
 
-if you need Help watch our [tutorial video](https://youtu.be/qllecIdiE-4) or join our [discord server](https://discord.gg/vm4SYSqsde) !
+If you need Help watch our [Tutorial video](https://youtu.be/qllecIdiE-4) or join our [Discord server](https://discord.gg/vm4SYSqsde) !
 
 
-## if you have the old installer:
+## If you have the old installer:
 
 1.) Open your current installer, and click uninstall. 
 
