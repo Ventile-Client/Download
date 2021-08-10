@@ -20,4 +20,4 @@ If you need Help watch our [Tutorial video](https://youtu.be/qllecIdiE-4) or joi
 ## NOTES: 
  - IF YOU RUN INTO ANY ERRORS PLEASE REPORT IT AS A BUG v!bug BUG
  - It does take a bit to open the launcher the first time u install
- - Do not open the Installer twice, as that MAY cause an error
+ - Do not open the Installer twice, as that MAY cause an error !
