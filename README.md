@@ -6,18 +6,30 @@
 
 # Ventile Client
 
-If you need Help watch our [Tutorial video](https://youtu.be/qllecIdiE-4) or join our [Discord server](https://discord.gg/vm4SYSqsde) !
+I dont suggest downloading anything from this page, I suggest downloading the Ventile Installer, and it does everything for you! (And AutoUpdate :D)
+
+The discord has the latest updates, the installer and a great community too!
+https://discord.gg/T2QtgdrtAY
 
 
-## If you have the old installer:
+If it is ESSENTIAL to not use the installer, then follow steps below
 
-1.) Open your current installer, and click uninstall. 
+* Go to `C:\` drive in file explorer
+* Create a folder named `temp`
+* Create a folder named `VentileClient` inside there.
+* Place the `Ventile-Updater.exe` in the `VentileClient` folder
+* Inside `VentileClient` create 2 folders named `Launcher` and `Presets`
+* Extract `Presets.zip` into the Presets folder
+* Delete `Presets.zip`
+* Extract `VentileClient.zip` into the `Launcher` folder
+* Delete `VentileClient.zip`
+* Run `VentileClient.exe`
+* Enjoy!
 
-2.) Download new installer
-
-3.) Open and click install
+You can create a shortcut for it if you want!
+I HIGHLY suggest using the the Ventile Installer, but its up to you!
 
 ## NOTES: 
- - IF YOU RUN INTO ANY ERRORS PLEASE REPORT IT AS A BUG v!bug BUG
+ - If you run into any errors, open and issue or report it as v!bug in our discord server!
  - It does take a bit to open the launcher the first time u install
  - Do not open the Installer twice, as that MAY cause an error !
