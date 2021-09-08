@@ -15,8 +15,8 @@
 </div>
 <br>
 
-I dont suggest downloading anything from this page, I suggest downloading the Ventile Installer, and it does everything for you! (And AutoUpdate :D)
-
+I dont suggest downloading anything from this page, I highly suggest using the Ventile Installer as it does everything for you! (And AutoUpdate :D)
+    
 The discord has the latest updates, the installer and a great community too!
 https://discord.gg/T2QtgdrtAY
 
@@ -33,9 +33,6 @@ https://discord.gg/T2QtgdrtAY
 * Delete `VentileClient.zip`
 * Run `VentileClient.exe`
 * Enjoy!
-
-You can create a shortcut for it if you want!
-I HIGHLY suggest using the the Ventile Installer, but its up to you!
 
 ## NOTES
     
