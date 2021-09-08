@@ -20,7 +20,7 @@ I dont suggest downloading anything from this page, I suggest downloading the Ve
 The discord has the latest updates, the installer and a great community too!
 https://discord.gg/T2QtgdrtAY
 
-If it is ESSENTIAL to not use the installer, then follow steps below
+## Without Installer
 
 * Go to `C:\` drive in file explorer
 * Create a folder named `temp`
@@ -37,7 +37,8 @@ If it is ESSENTIAL to not use the installer, then follow steps below
 You can create a shortcut for it if you want!
 I HIGHLY suggest using the the Ventile Installer, but its up to you!
 
-## NOTES: 
+## NOTES
+    
  - If you run into any errors, open and issue or report it as v!bug in our discord server!
  - It does take a bit to open the launcher the first time u install
  - Do not open the Installer twice, as that MAY cause an error !
