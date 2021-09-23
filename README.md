@@ -5,7 +5,7 @@
   </p>
   <br/>
   <p>
-    <a href="https://discord.gg/ventile"><img src="https://img.shields.io/discord/732833913705201736?color=5865F2&logo=discord&logoColor=white" alt="Discord server"/></a>
+    <a href="https://discord.gg/gDFNwf48Fq"><img src="https://img.shields.io/discord/732833913705201736?color=5865F2&logo=discord&logoColor=white" alt="Discord server"/></a>
     <a href="https://creativecommons.org/licenses/by-nc/4.0/"><img src="https://img.shields.io/static/v1?label=license&message=BY-NC%204.0&color=orange&logo=creative%20commons&logoColor=white" alt="License"/></a>
   </p>
   <p>
@@ -20,8 +20,8 @@
 I dont suggest downloading anything from this page, I highly suggest using the Ventile Installer as it does everything for you! (And AutoUpdate :D)
     
 The discord has the latest updates, the installer and a great community too!
-https://discord.gg/T2QtgdrtAY
-
+https://discord.gg/gDFNwf48Fq
+    
 ## Without Installer
 
 * Go to `C:\` drive in file explorer
