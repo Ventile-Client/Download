@@ -5,12 +5,12 @@
   </p>
   <br/>
   <p>
-    <a href="https://discord.gg/gDFNwf48Fq"><img src="https://img.shields.io/discord/732833913705201736?color=5865F2&logo=discord&logoColor=white" alt="Discord server"/></a>
+    <a href="https://discord.gg/sN4Z9j2c7h"><img src="https://img.shields.io/discord/890387370103414814?color=5865F2&logo=discord&logoColor=white" alt="Discord server"/></a>
     <a href="https://creativecommons.org/licenses/by-nc/4.0/"><img src="https://img.shields.io/static/v1?label=license&message=BY-NC%204.0&color=orange&logo=creative%20commons&logoColor=white" alt="License"/></a>
   </p>
   <p>
     <b>Ventile Client<b> is a MCBE client used to enhance minecraft, we don't take responsibilty in how you use this.<br>
-    Make sure to join our <a href="https://discord.gg/gDFNwf48Fq">discord!</a>
+    Make sure to join our <a href="https://discord.gg/sN4Z9j2c7h">discord!</a>
   </p>
 </div>
 <br>
@@ -20,7 +20,7 @@
 I dont suggest downloading anything from this page, I highly suggest using the Ventile Installer as it does everything for you! (And AutoUpdate :D)
     
 The discord has the latest updates, the installer and a great community too!
-https://discord.gg/gDFNwf48Fq
+https://discord.gg/sN4Z9j2c7h
     
 ## Without Installer
 
