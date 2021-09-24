@@ -37,7 +37,7 @@ https://discord.gg/sN4Z9j2c7h
 * Enjoy!
 
 ## NOTES
-    
+ 
  - If you run into any errors, open and issue or report it as v!bug in our discord server!
  - It does take a bit to open the launcher the first time u install
  - Do not open the Installer twice, as that MAY cause an error !
