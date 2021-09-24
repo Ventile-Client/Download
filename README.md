@@ -17,7 +17,7 @@
 
 ---
     
-I dont suggest downloading anything from this page, I highly suggest using the Ventile Installer as it does everything for you! (And AutoUpdate :D)
+I dont suggest downloading anything from this page, besides the installer, and I highly suggest using the it as it does everything for you!
     
 The discord has the latest updates, the installer and a great community too!
 https://discord.gg/sN4Z9j2c7h
@@ -33,11 +33,11 @@ https://discord.gg/sN4Z9j2c7h
 * Delete `Presets.zip`
 * Extract `VentileClient.zip` into the `Launcher` folder
 * Delete `VentileClient.zip`
-* Run `VentileClient.exe`
+* Run `VentileClient.exe or the shortcut on your desktop`
 * Enjoy!
 
 ## NOTES
  
  - If you run into any errors, open and issue or report it as v!bug in our discord server!
- - It does take a bit to open the launcher the first time u install
- - Do not open the Installer twice, as that MAY cause an error !
+ - It does take a bit to open the launcher the first time you install
+ - Do not open the installer twice, as this MAY cause an error !
