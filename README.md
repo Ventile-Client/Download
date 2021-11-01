@@ -28,9 +28,7 @@ https://discord.gg/sN4Z9j2c7h
 * Create a folder named `temp`
 * Create a folder named `VentileClient` inside there.
 * Place the `Ventile-Updater.exe` in the `VentileClient` folder
-* Inside `VentileClient` create 2 folders named `Launcher` and `Presets`
-* Extract `Presets.zip` into the Presets folder
-* Delete `Presets.zip`
+* Inside `VentileClient` create a folder named `Launcher`
 * Extract `VentileClient.zip` into the `Launcher` folder
 * Delete `VentileClient.zip`
 * Run `VentileClient.exe or the shortcut on your desktop`
@@ -38,6 +36,6 @@ https://discord.gg/sN4Z9j2c7h
 
 ## NOTES
  
- - If you run into any errors, open and issue or report it as v!bug in our discord server!
+ - If you run into any errors, open and issue or report it in our discord server
  - It does take a bit to open the launcher the first time you install
- - Do not open the installer twice, as this MAY cause an error !
+ - Do not open the installer twice, as this MAY cause an error!
