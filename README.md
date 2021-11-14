@@ -9,7 +9,7 @@
     <a href="https://creativecommons.org/licenses/by-nc/4.0/"><img src="https://img.shields.io/static/v1?label=license&message=BY-NC%204.0&color=orange&logo=creative%20commons&logoColor=white" alt="License"/></a>
   </p>
   <p>
-    <b>Ventile Client<b> is a MCBE client used to enhance minecraft, we don't take responsibilty in how you use this.<br>
+    <b>Ventile Client<b> is a Launcher used to enhance minecraft, we don't take responsibilty in how you use this.<br>
     Make sure to join our <a href="https://discord.gg/sN4Z9j2c7h">discord!</a>
   </p>
 </div>
@@ -36,6 +36,6 @@ https://discord.gg/sN4Z9j2c7h
 
 ## NOTES
  
- - If you run into any errors, open and issue or report it in our discord server
+ - If you run into any errors, open an issue or report it in our discord server
  - It does take a bit to open the launcher the first time you install
  - Do not open the installer twice, as this MAY cause an error!
