@@ -38,4 +38,4 @@ https://discord.gg/sN4Z9j2c7h
  
  - If you run into any errors, open an issue or report it in our discord server
  - It does take a bit to open the launcher the first time you install
- - Do not open the installer twice, as this MAY cause an error!
+ - Do not open the installer twice, as this MAY cause an error
